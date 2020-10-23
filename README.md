@@ -1,4 +1,4 @@
-# SocalCyberCupMentorProgram
+# Socal Cyber Cup Mentor Program
 
 www.socalcybercup.org
 
